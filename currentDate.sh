@@ -5,7 +5,7 @@
 # @raycast.mode silent
 # @raycast.icon 📅
 # @raycast.packageName Text Transforms
-# @raycast.description Convert selected text to lowercase kebab-case
-# @raycase.author Adrian Barnes @adrian271
+# @raycast.description Add Current Date to clipboard (YYYY-MM-DD)
+# @raycast.author Adrian Barnes @adrian271
 
 date +"%Y-%m-%d" | tr -d '\n' | pbcopy

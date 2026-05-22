@@ -2,7 +2,7 @@
 
 # Required parameters:
 # @raycast.schemaVersion 1
-# @raycast.title To snake_case
+# @raycast.title snake_case Conversion
 # @raycast.mode silent
 
 # Optional parameters:
